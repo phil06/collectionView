@@ -18,6 +18,7 @@
 ## cell animation
 
 CollectionViewHeaderTest1 + cell horizontal 제스처 애니메이션
+
 ![](20190919_collectionview+stickey+header+cellAnimation.gif)
 
 - collectionview 2개를 이용함
